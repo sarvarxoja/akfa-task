@@ -1,0 +1,7 @@
+{
+  "plantName": "Factory A",
+  "workCenters": ["MECH-A", "ELEC-A"],
+  "sync": {
+    "intervalMinutes": 15
+  }
+}

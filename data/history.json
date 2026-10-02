@@ -1,0 +1,376 @@
+{
+  "d": {
+    "results": [
+      {
+        "NotificationId": "9000001",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000101",
+        "Plant": "1000",
+        "Description": "Hose burst",
+        "MalfunctionStart": "/Date(1760109300000)/",
+        "MalfunctionEnd": "/Date(1760121900000)/",
+        "Breakdown": true
+      },
+      {
+        "NotificationId": "9000002",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000105",
+        "Plant": "1000",
+        "Description": "Powder feed blocked",
+        "MalfunctionStart": "/Date(1761273900000)/",
+        "MalfunctionEnd": "/Date(1761277500000)/",
+        "Breakdown": true
+      },
+      {
+        "NotificationId": "9000003",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000102",
+        "Plant": "1000",
+        "Description": "Seal failure",
+        "MalfunctionStart": "/Date(1761755400000)/",
+        "MalfunctionEnd": "/Date(1761782400000)/",
+        "Breakdown": true
+      },
+      {
+        "NotificationId": "9000004",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000203",
+        "Plant": "2000",
+        "Description": "Hoist brake fault",
+        "MalfunctionStart": "/Date(1761972300000)/",
+        "MalfunctionEnd": "/Date(1762011900000)/",
+        "Breakdown": true
+      },
+      {
+        "NotificationId": "9000005",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000101",
+        "Plant": "1000",
+        "Description": "Hydraulic hose leak",
+        "MalfunctionStart": "/Date(1762490700000)/",
+        "MalfunctionEnd": "/Date(1762509600000)/",
+        "Breakdown": true
+      },
+      {
+        "NotificationId": "9000006",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000202",
+        "Plant": "2000",
+        "Description": "Pressure valve leak",
+        "MalfunctionStart": "/Date(1766805300000)/",
+        "MalfunctionEnd": "/Date(1766809800000)/",
+        "Breakdown": true
+      },
+      {
+        "NotificationId": "9000007",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000105",
+        "Plant": "1000",
+        "Description": "Conveyor stopped",
+        "MalfunctionStart": "/Date(1767033000000)/",
+        "MalfunctionEnd": "/Date(1767038400000)/",
+        "Breakdown": true
+      },
+      {
+        "NotificationId": "9000008",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000202",
+        "Plant": "2000",
+        "Description": "Valve whistling",
+        "MalfunctionStart": "/Date(1769468400000)/",
+        "MalfunctionEnd": "/Date(1769472900000)/",
+        "Breakdown": true
+      },
+      {
+        "NotificationId": "9000009",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000104",
+        "Plant": "1000",
+        "Description": "Bearing noise",
+        "MalfunctionStart": "/Date(1769472000000)/",
+        "MalfunctionEnd": "/Date(1769486400000)/",
+        "Breakdown": true
+      },
+      {
+        "NotificationId": "9000010",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000101",
+        "Plant": "1000",
+        "Description": "Hose burst",
+        "MalfunctionStart": "/Date(1770568200000)/",
+        "MalfunctionEnd": "/Date(1770573600000)/",
+        "Breakdown": true
+      },
+      {
+        "NotificationId": "9000011",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000102",
+        "Plant": "1000",
+        "Description": "Oil leak",
+        "MalfunctionStart": "/Date(1771231500000)/",
+        "MalfunctionEnd": "/Date(1771251300000)/",
+        "Breakdown": true
+      },
+      {
+        "NotificationId": "9000012",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000105",
+        "Plant": "1000",
+        "Description": "Spray gun clogged",
+        "MalfunctionStart": "/Date(1771838100000)/",
+        "MalfunctionEnd": "/Date(1771841700000)/",
+        "Breakdown": true
+      },
+      {
+        "NotificationId": "9000013",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000104",
+        "Plant": "1000",
+        "Description": "Fan vibration",
+        "MalfunctionStart": "/Date(1771891200000)/",
+        "MalfunctionEnd": "/Date(1771906500000)/",
+        "Breakdown": true
+      },
+      {
+        "NotificationId": "9000014",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000101",
+        "Plant": "1000",
+        "Description": "Hose burst",
+        "MalfunctionStart": "/Date(1772542800000)/",
+        "MalfunctionEnd": "/Date(1772556300000)/",
+        "Breakdown": true
+      },
+      {
+        "NotificationId": "9000015",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000101",
+        "Plant": "1000",
+        "Description": "Hydraulic pressure drop",
+        "MalfunctionStart": "/Date(1772566200000)/",
+        "MalfunctionEnd": "/Date(1772582400000)/",
+        "Breakdown": true
+      },
+      {
+        "NotificationId": "9000016",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000201",
+        "Plant": "2000",
+        "Description": "Die heater failure",
+        "MalfunctionStart": "/Date(1772952300000)/",
+        "MalfunctionEnd": "/Date(1772964900000)/",
+        "Breakdown": true
+      },
+      {
+        "NotificationId": "9000017",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000105",
+        "Plant": "1000",
+        "Description": "Spray gun clogged",
+        "MalfunctionStart": "/Date(1773707400000)/",
+        "MalfunctionEnd": "/Date(1773714600000)/",
+        "Breakdown": true
+      },
+      {
+        "NotificationId": "9000018",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000102",
+        "Plant": "1000",
+        "Description": "Seal failure",
+        "MalfunctionStart": "/Date(1773723600000)/",
+        "MalfunctionEnd": "/Date(1773737100000)/",
+        "Breakdown": true
+      },
+      {
+        "NotificationId": "9000019",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000201",
+        "Plant": "2000",
+        "Description": "Thermocouple fault",
+        "MalfunctionStart": "/Date(1775240100000)/",
+        "MalfunctionEnd": "/Date(1775264400000)/",
+        "Breakdown": true
+      },
+      {
+        "NotificationId": "9000020",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000105",
+        "Plant": "1000",
+        "Description": "Spray gun clogged",
+        "MalfunctionStart": "/Date(1775300400000)/",
+        "MalfunctionEnd": "/Date(1775305800000)/",
+        "Breakdown": true
+      },
+      {
+        "NotificationId": "9000021",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000102",
+        "Plant": "1000",
+        "Description": "Main cylinder leak",
+        "MalfunctionStart": "/Date(1777431600000)/",
+        "MalfunctionEnd": "/Date(1777444200000)/",
+        "Breakdown": true
+      },
+      {
+        "NotificationId": "9000022",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000105",
+        "Plant": "1000",
+        "Description": "Conveyor stopped",
+        "MalfunctionStart": "/Date(1779011100000)/",
+        "MalfunctionEnd": "/Date(1779012900000)/",
+        "Breakdown": true
+      },
+      {
+        "NotificationId": "9000023",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000103",
+        "Plant": "1000",
+        "Description": "Pressure switch fault",
+        "MalfunctionStart": "/Date(1779246900000)/",
+        "MalfunctionEnd": "/Date(1779255000000)/",
+        "Breakdown": true
+      },
+      {
+        "NotificationId": "9000024",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000101",
+        "Plant": "1000",
+        "Description": "Hydraulic hose leak",
+        "MalfunctionStart": "/Date(1779386400000)/",
+        "MalfunctionEnd": "/Date(1779397200000)/",
+        "Breakdown": true
+      },
+      {
+        "NotificationId": "9000025",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000101",
+        "Plant": "1000",
+        "Description": "Hydraulic hose leak",
+        "MalfunctionStart": "/Date(1779716700000)/",
+        "MalfunctionEnd": "/Date(1779728400000)/",
+        "Breakdown": true
+      },
+      {
+        "NotificationId": "9000026",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000102",
+        "Plant": "1000",
+        "Description": "Main cylinder leak",
+        "MalfunctionStart": "/Date(1780072200000)/",
+        "MalfunctionEnd": "/Date(1780108200000)/",
+        "Breakdown": true
+      },
+      {
+        "NotificationId": "9000027",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000103",
+        "Plant": "1000",
+        "Description": "Pressure switch fault",
+        "MalfunctionStart": "/Date(1780917300000)/",
+        "MalfunctionEnd": "/Date(1780926300000)/",
+        "Breakdown": true
+      },
+      {
+        "NotificationId": "9000028",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000103",
+        "Plant": "1000",
+        "Description": "Pressure switch fault",
+        "MalfunctionStart": "/Date(1781348400000)/",
+        "MalfunctionEnd": "/Date(1781356500000)/",
+        "Breakdown": true
+      },
+      {
+        "NotificationId": "9000029",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000201",
+        "Plant": "2000",
+        "Description": "Temperature alarm",
+        "MalfunctionStart": "/Date(1781944200000)/",
+        "MalfunctionEnd": "/Date(1781963100000)/",
+        "Breakdown": true
+      },
+      {
+        "NotificationId": "9000030",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000101",
+        "Plant": "1000",
+        "Description": "Hose burst",
+        "MalfunctionStart": "/Date(1782435600000)/",
+        "MalfunctionEnd": "/Date(1782443700000)/",
+        "Breakdown": true
+      },
+      {
+        "NotificationId": "9000031",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000101",
+        "Plant": "1000",
+        "Description": "Hose burst",
+        "MalfunctionStart": "/Date(1783138500000)/",
+        "MalfunctionEnd": "/Date(1783154700000)/",
+        "Breakdown": true
+      },
+      {
+        "NotificationId": "9000032",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000103",
+        "Plant": "1000",
+        "Description": "Air filter clogged",
+        "MalfunctionStart": "/Date(1785507300000)/",
+        "MalfunctionEnd": "/Date(1785513600000)/",
+        "Breakdown": true
+      },
+      {
+        "NotificationId": "9000033",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000201",
+        "Plant": "2000",
+        "Description": "Thermocouple fault",
+        "MalfunctionStart": "/Date(1787977800000)/",
+        "MalfunctionEnd": "/Date(1787994000000)/",
+        "Breakdown": true
+      },
+      {
+        "NotificationId": "9000034",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000104",
+        "Plant": "1000",
+        "Description": "Motor overheating",
+        "MalfunctionStart": "/Date(1787995800000)/",
+        "MalfunctionEnd": "/Date(1788012000000)/",
+        "Breakdown": true
+      },
+      {
+        "NotificationId": "9000035",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000201",
+        "Plant": "2000",
+        "Description": "Thermocouple fault",
+        "MalfunctionStart": "/Date(1789261200000)/",
+        "MalfunctionEnd": "/Date(1789288200000)/",
+        "Breakdown": true
+      },
+      {
+        "NotificationId": "9000036",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000201",
+        "Plant": "2000",
+        "Description": "Thermocouple fault",
+        "MalfunctionStart": "/Date(1789273800000)/",
+        "MalfunctionEnd": "/Date(1789302600000)/",
+        "Breakdown": true
+      },
+      {
+        "NotificationId": "9000037",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000201",
+        "Plant": "2000",
+        "Description": "Thermocouple fault",
+        "MalfunctionStart": "/Date(1789815600000)/",
+        "MalfunctionEnd": "/Date(1789830000000)/",
+        "Breakdown": true
+      }
+    ]
+  }
+}

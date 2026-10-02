@@ -1,0 +1,46 @@
+{
+  "d": {
+    "results": [
+      {
+        "EquipmentId": "000000000010000101",
+        "Description": "Press line 1",
+        "Plant": "1000"
+      },
+      {
+        "EquipmentId": "000000000010000102",
+        "Description": "Extrusion press 2",
+        "Plant": "1000"
+      },
+      {
+        "EquipmentId": "000000000010000103",
+        "Description": "Compressor A",
+        "Plant": "1000"
+      },
+      {
+        "EquipmentId": "000000000010000104",
+        "Description": "Cooling tower",
+        "Plant": "1000"
+      },
+      {
+        "EquipmentId": "000000000010000105",
+        "Description": "Powder paint line",
+        "Plant": "1000"
+      },
+      {
+        "EquipmentId": "000000000010000201",
+        "Description": "Extrusion press B1",
+        "Plant": "2000"
+      },
+      {
+        "EquipmentId": "000000000010000202",
+        "Description": "Compressor B",
+        "Plant": "2000"
+      },
+      {
+        "EquipmentId": "000000000010000203",
+        "Description": "Overhead crane B",
+        "Plant": "2000"
+      }
+    ]
+  }
+}

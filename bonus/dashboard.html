@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ТОРО — эрталабки дашборд</title>
+  <style>
+    :root { font-family: Segoe UI, system-ui, sans-serif; color: #1b2430; background: #f4f6f8; }
+    body { max-width: 960px; margin: 24px auto; padding: 0 16px; }
+    h1 { margin-bottom: 4px; }
+    .muted { color: #5b6775; margin-top: 0; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; }
+    .card { background: #fff; border-radius: 10px; padding: 14px 16px; box-shadow: 0 1px 3px rgba(0,0,0,.08); }
+    .n { font-size: 28px; font-weight: 700; }
+    table { width: 100%; border-collapse: collapse; background: #fff; border-radius: 10px; overflow: hidden; }
+    th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid #e6ebf0; font-size: 14px; }
+    th { background: #eef3f8; }
+    .p1 { color: #b42318; font-weight: 700; }
+  </style>
+</head>
+<body>
+  <h1>Мини ТОРО — эрталабки кўриниш</h1>
+  <p class="muted">Маълумотлар <code>data/*.json</code> дан. Раҳбар эрталаб очиқ ишлар ва қайси дастгоҳ кўп хабар берганини кўради.</p>
+
+  <div class="grid">
+    <div class="card"><div class="muted">Очиқ буюртмалар (1000)</div><div class="n">6</div></div>
+    <div class="card"><div class="muted">Ёпиқ буюртмалар (1000)</div><div class="n">2</div></div>
+    <div class="card"><div class="muted">Хабарномалар жами</div><div class="n">12</div></div>
+    <div class="card"><div class="muted">Ускуналар</div><div class="n">8</div></div>
+  </div>
+
+  <h2>Энг шошилинч очиқ буюртмалар — завод 1000</h2>
+  <table>
+    <thead><tr><th>Буюртма</th><th>Приоритет</th><th>Матн</th><th>Ускуна</th></tr></thead>
+    <tbody>
+      <tr><td>4000104</td><td class="p1">1</td><td>Fan motor vibration</td><td>Cooling tower</td></tr>
+      <tr><td>4000102</td><td class="p1">1</td><td>Main cylinder leak</td><td>Extrusion press 2</td></tr>
+      <tr><td>4000101</td><td>2</td><td>Replace hydraulic hose</td><td>Press line 1</td></tr>
+      <tr><td>4000108</td><td>2</td><td>Replace air filter</td><td>Compressor A</td></tr>
+    </tbody>
+  </table>
+
+  <h2>Қайси дастгоҳлар кўп хабарнома берган</h2>
+  <table>
+    <thead><tr><th>Ускуна</th><th>Хабарномалар</th><th>Изоҳ</th></tr></thead>
+    <tbody>
+      <tr><td>Press line 1 (10000101)</td><td>3</td><td>Қисқа ва тўлиқ рақам бирга ҳисобланган</td></tr>
+      <tr><td>Extrusion press B1</td><td>2</td><td>2000 заводи</td></tr>
+      <tr><td>Бошқалар</td><td>1</td><td>Бир марталик хабарлар</td></tr>
+    </tbody>
+  </table>
+
+  <p class="muted">Янгилаш: <code>node bonus/dashboard.js</code> — жорий маълумотдан қайта ҳисоблайди.</p>
+</body>
+</html>

@@ -1,0 +1,218 @@
+{
+  "d": {
+    "results": [
+      {
+        "OrderId": "4000101",
+        "OrderType": "PM01",
+        "Plant": "1000",
+        "EquipmentId": "000000000010000101",
+        "ShortText": "Replace hydraulic hose",
+        "Priority": "2",
+        "SystemStatus": "REL",
+        "BasicStartDate": "/Date(1791158400000)/",
+        "Operations": {
+          "results": [
+            {
+              "OperationNo": "0010",
+              "Description": "Dismantle hose",
+              "WorkCenter": "MECH-A",
+              "PlannedHours": "2.5"
+            },
+            {
+              "OperationNo": "0020",
+              "Description": "Check sensors",
+              "WorkCenter": "ELEC-A",
+              "PlannedHours": "1.5"
+            }
+          ]
+        }
+      },
+      {
+        "OrderId": "4000102",
+        "OrderType": "PM01",
+        "Plant": "1000",
+        "EquipmentId": "000000000010000102",
+        "ShortText": "Main cylinder leak",
+        "Priority": "1",
+        "SystemStatus": "CRTD",
+        "BasicStartDate": "/Date(1791331200000)/",
+        "Operations": {
+          "results": [
+            {
+              "OperationNo": "0010",
+              "Description": "Replace seals",
+              "WorkCenter": "MECH-A",
+              "PlannedHours": "4.0"
+            }
+          ]
+        }
+      },
+      {
+        "OrderId": "4000103",
+        "OrderType": "PM01",
+        "Plant": "1000",
+        "EquipmentId": "000000000010000103",
+        "ShortText": "Compressor overhaul",
+        "Priority": "1",
+        "SystemStatus": "TECO",
+        "BasicStartDate": "/Date(1789862400000)/",
+        "Operations": {
+          "results": [
+            {
+              "OperationNo": "0010",
+              "Description": "Overhaul",
+              "WorkCenter": "MECH-A",
+              "PlannedHours": "8.0"
+            }
+          ]
+        }
+      },
+      {
+        "OrderId": "4000104",
+        "OrderType": "PM01",
+        "Plant": "1000",
+        "EquipmentId": "000000000010000104",
+        "ShortText": "Fan motor vibration",
+        "Priority": "1",
+        "SystemStatus": "REL PRC",
+        "BasicStartDate": "/Date(1790899200000)/",
+        "Operations": {
+          "results": [
+            {
+              "OperationNo": "0010",
+              "Description": "Replace bearing",
+              "WorkCenter": "MECH-A",
+              "PlannedHours": "3.0"
+            },
+            {
+              "OperationNo": "0020",
+              "Description": "Balance fan",
+              "WorkCenter": "MECH-A",
+              "PlannedHours": "0.5"
+            }
+          ]
+        }
+      },
+      {
+        "OrderId": "4000105",
+        "OrderType": "PM01",
+        "Plant": "1000",
+        "EquipmentId": "000000000010000105",
+        "ShortText": "Clean spray guns",
+        "Priority": "3",
+        "SystemStatus": "REL",
+        "BasicStartDate": "/Date(1790812800000)/"
+      },
+      {
+        "OrderId": "4000106",
+        "OrderType": "PM01",
+        "Plant": "1000",
+        "EquipmentId": "000000000010000101",
+        "ShortText": "Inspection after repair",
+        "Priority": "",
+        "SystemStatus": "REL",
+        "BasicStartDate": "/Date(1790553600000)/",
+        "Operations": {
+          "results": []
+        }
+      },
+      {
+        "OrderId": "4000107",
+        "OrderType": "PM01",
+        "Plant": "1000",
+        "EquipmentId": "000000000010000102",
+        "ShortText": "Oil change",
+        "Priority": "2",
+        "SystemStatus": "CLSD",
+        "BasicStartDate": "/Date(1789430400000)/",
+        "Operations": {
+          "results": [
+            {
+              "OperationNo": "0010",
+              "Description": "Change oil",
+              "WorkCenter": "MECH-A",
+              "PlannedHours": "1.0"
+            }
+          ]
+        }
+      },
+      {
+        "OrderId": "4000108",
+        "OrderType": "PM01",
+        "Plant": "1000",
+        "EquipmentId": "000000000010000103",
+        "ShortText": "Replace air filter",
+        "Priority": "2",
+        "SystemStatus": "REL",
+        "BasicStartDate": "/Date(1791158400000)/",
+        "Operations": null
+      },
+      {
+        "OrderId": "4000201",
+        "OrderType": "PM01",
+        "Plant": "2000",
+        "EquipmentId": "000000000010000201",
+        "ShortText": "Die heater failure",
+        "Priority": "1",
+        "SystemStatus": "REL",
+        "BasicStartDate": "/Date(1790985600000)/",
+        "Operations": {
+          "results": [
+            {
+              "OperationNo": "0010",
+              "Description": "Replace heater",
+              "WorkCenter": "ELEC-B",
+              "PlannedHours": "2.0"
+            }
+          ]
+        }
+      },
+      {
+        "OrderId": "4000202",
+        "OrderType": "PM01",
+        "Plant": "2000",
+        "EquipmentId": "000000000010000202",
+        "ShortText": "Pressure valve",
+        "Priority": "2",
+        "SystemStatus": "REL TECO",
+        "BasicStartDate": "/Date(1790294400000)/",
+        "Operations": {
+          "results": [
+            {
+              "OperationNo": "0010",
+              "Description": "Replace valve",
+              "WorkCenter": "MECH-B",
+              "PlannedHours": "1.0"
+            }
+          ]
+        }
+      },
+      {
+        "OrderId": "4000203",
+        "OrderType": "PM01",
+        "Plant": "2000",
+        "EquipmentId": "000000000010000203",
+        "ShortText": "Annual crane inspection",
+        "Priority": "4",
+        "SystemStatus": "CRTD",
+        "BasicStartDate": "/Date(1791763200000)/",
+        "Operations": {
+          "results": [
+            {
+              "OperationNo": "0010",
+              "Description": "Inspection",
+              "WorkCenter": "MECH-B",
+              "PlannedHours": "6.0"
+            },
+            {
+              "OperationNo": "0020",
+              "Description": "Welding repair",
+              "WorkCenter": "WELD-B",
+              "PlannedHours": "2.0"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "plantName": "Factory B",
+  "language": "uz",
+  "workCenters": ["MECH-B", "ELEC-B", "WELD-B"],
+  "notification": {
+    "requiredFields": ["NotificationType", "Description", "EquipmentId", "MalfunctionStart"]
+  },
+  "fields": {
+    "MalfunctionStart": { "visible": true }
+  }
+}

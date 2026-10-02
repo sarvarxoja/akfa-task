@@ -1,0 +1,18 @@
+{
+  "plantName": "",
+  "language": "ru",
+  "workCenters": [],
+  "sync": {
+    "intervalMinutes": 30,
+    "maxAttachmentMb": 5
+  },
+  "notification": {
+    "defaultType": "M2",
+    "descriptionMaxLength": 40,
+    "requiredFields": ["NotificationType", "Description", "EquipmentId"]
+  },
+  "fields": {
+    "Priority": { "visible": true },
+    "MalfunctionStart": { "visible": false }
+  }
+}

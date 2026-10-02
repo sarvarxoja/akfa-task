@@ -1,0 +1,102 @@
+{
+  "d": {
+    "results": [
+      {
+        "NotificationId": "10000001",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000101",
+        "Plant": "1000",
+        "Description": "Hydraulic hose is leaking",
+        "CreatedOn": "/Date(1790755200000)/"
+      },
+      {
+        "NotificationId": "10000002",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000102",
+        "Plant": "1000",
+        "Description": "Oil on the floor under cylinder",
+        "CreatedOn": "/Date(1790845200000)/"
+      },
+      {
+        "NotificationId": "10000003",
+        "NotificationType": "M1",
+        "EquipmentId": "000000000010000101",
+        "Plant": "1000",
+        "Description": "Planned inspection",
+        "CreatedOn": "/Date(1790492400000)/"
+      },
+      {
+        "NotificationId": "10000004",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000104",
+        "Plant": "1000",
+        "Description": "Strong vibration of fan",
+        "CreatedOn": "/Date(1790690400000)/"
+      },
+      {
+        "NotificationId": "10000005",
+        "NotificationType": "M2",
+        "EquipmentId": "10000101",
+        "Plant": "1000",
+        "Description": "Hose leaking again",
+        "CreatedOn": "/Date(1790920800000)/"
+      },
+      {
+        "NotificationId": "10000006",
+        "NotificationType": "M2",
+        "EquipmentId": "",
+        "Plant": "1000",
+        "Description": "Light in workshop is broken",
+        "CreatedOn": "/Date(1790938800000)/"
+      },
+      {
+        "NotificationId": "10000007",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000105",
+        "Plant": "1000",
+        "Description": "Spray guns are clogged",
+        "CreatedOn": "/Date(1790784000000)/"
+      },
+      {
+        "NotificationId": "10000008",
+        "NotificationType": "M1",
+        "EquipmentId": "000000000010000103",
+        "Plant": "1000",
+        "Description": "Filter replacement due",
+        "CreatedOn": "/Date(1790409600000)/"
+      },
+      {
+        "NotificationId": "10000009",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000201",
+        "Plant": "2000",
+        "Description": "Die heater does not heat",
+        "CreatedOn": "/Date(1790917200000)/"
+      },
+      {
+        "NotificationId": "10000010",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000202",
+        "Plant": "2000",
+        "Description": "Pressure valve whistling",
+        "CreatedOn": "/Date(1790244000000)/"
+      },
+      {
+        "NotificationId": "10000011",
+        "NotificationType": "M1",
+        "EquipmentId": "000000000010000203",
+        "Plant": "2000",
+        "Description": "Annual inspection",
+        "CreatedOn": "/Date(1789891200000)/"
+      },
+      {
+        "NotificationId": "10000012",
+        "NotificationType": "M2",
+        "EquipmentId": "000000000010000201",
+        "Plant": "2000",
+        "Description": "Temperature alarm",
+        "CreatedOn": "/Date(1791028800000)/"
+      }
+    ]
+  }
+}

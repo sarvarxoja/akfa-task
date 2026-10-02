@@ -1,0 +1,12 @@
+{
+  "name": "mini-toro",
+  "version": "1.0.0",
+  "description": "Technical task: maintenance orders and notifications (junior developer)",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
